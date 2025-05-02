@@ -1,11 +1,11 @@
-# Pipeline ETL de Spotify t
+# Pipeline ETL de Spotify 🎶
 
-## Descripción
+## Descripción 📝
 Este proyecto tiene como objetivo crear un archivo CSV en el cual se guardara un dataset; mediante la pipeline ETL se extraeran los datos usando la API de spotify, se transformaran los datos con el uso de pandas y se guardara en el archivo CSV 
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 💼
 - **Lenguaje de programación**
-  - Python
+  - Python 🐍
 
 - **Librerías y módulos de Python**
   - `pandas`: para manipulación y análisis de datos.
