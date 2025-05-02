@@ -19,3 +19,13 @@ Este proyecto tiene como objetivo crear un archivo CSV en el cual se guardara un
 
 
 ## Instrucciones de Ejecución ⚙️
+
+
+
+## Contribuciones 🤝
+ 
+ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor, crea un fork del repositorio, realiza tus cambios y envía una solicitud de pull.
+ 
+## Autor 🧑‍💻
+ 
+ E. Joel C. M.
